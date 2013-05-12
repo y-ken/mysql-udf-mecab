@@ -46,5 +46,5 @@ Pull requests are very welcome!!
 
 ## Copyright
 
-Copyright : Copyright (c) 2012- Kentaro Yoshida (@yoshi_ken)
+Copyright : Copyright (c) 2012- Kentaro Yoshida ([@yoshi_ken](https://twitter.com/yoshi_ken))  
 License : Apache License, Version 2.0
